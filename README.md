@@ -84,5 +84,3 @@ The model is deployed using **Streamlit Cloud**.
 - **Shital Chavan**  
 🚀 _Passionate about AI & ML projects!_
 
-## app 
-https://wine-quality-predictor-nxksh7mxd5a7mpngftugt2.streamlit.app/#4b3e7318
