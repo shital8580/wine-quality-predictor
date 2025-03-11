@@ -68,9 +68,13 @@ The dataset contains various chemical attributes of **red & white wines** along 
 # Wine Quality Categories
 Quality	Category	Description
 0-4	🚫 Very Poor- Not present in your dataset
+
 5	⚠️ Poor- Acceptable but lacks complexity & balance
+
 6	👍 Average- Decent quality, moderate flavor & balance
+
 7	✅ Good	- Well-balanced, enjoyable taste
+
 8	⭐ Best-	High-quality wine with great taste & aroma
 
 ## 📤 Deployment
